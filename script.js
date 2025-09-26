@@ -83,7 +83,7 @@ function createBackground() {
     const width = sizeBase * scale;
     const height = width * random(0.65, 1.1);
 
-    const margin = 40;
+    const margin = 0;
     const x = random(margin, Math.max(margin, w - width - margin));
     const y = random(margin, Math.max(margin, h - height - margin));
 
