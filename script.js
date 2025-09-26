@@ -1,12 +1,12 @@
 const targetDate = new Date('2026-02-14T00:00:00');
 
 const images = [
-  '../img/photo_2025-09-15_01-18-39.jpg',
-  '../img/photo_2025-09-15_01-27-12.jpg',
-  '../img/photo_2025-09-15_01-27-13.jpg',
-  '../img/photo_2025-09-15_01-27-15.jpg',
-  '../img/photo_2025-09-15_01-27-17.jpg',
-  '../img/photo_2025-09-15_01-27-19.jpg'
+  'img/photo_2025-09-15_01-18-39.jpg',
+  'img/photo_2025-09-15_01-27-12.jpg',
+  'img/photo_2025-09-15_01-27-13.jpg',
+  'img/photo_2025-09-15_01-27-15.jpg',
+  'img/photo_2025-09-15_01-27-17.jpg',
+  'img/photo_2025-09-15_01-27-19.jpg'
 ];
 
 let loadedImages = [];
